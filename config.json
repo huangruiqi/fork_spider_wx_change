@@ -1,0 +1,15 @@
+{
+    "name": "ABCmouse-Tencent",
+    "ruokuai": {
+        "username": "",
+        "password": ""
+    },
+    "wechat": {
+        "mode": "all",
+        "start": 0,
+        "maxNum": 1,
+        "biz": "MzIxNjgxNTU4Mw==",
+        "appmsg_token": "1019_O%2Bwdm%2FnmqgVecrsLE_lCTZkqRXvRXjBdVxgXOQ~~",
+        "cookie": "ua_id=0kAsGQ1hfHeUgvqJAAAAAMxfZf-WggPMPIg5Fen75FQ=; mm_lang=zh_CN; xid=ba5ff9c1a66a332fc21d288efddde6f8; wxuin=476753207; devicetype=Windows7; version=62060739; lang=zh_CN; pass_ticket=IHHYzWyARrgTbpgiH1bwS5D23Kn31gVofWBGqV2kiQqMr4r4Oo5J7u7mRQAgUGUE; wap_sid2=CLfaquMBElx3cTdkYnJhRlVCbnhtVTAteGpkQzNTaVZRdmd4ZW5PTUc1YlJDOGJHUFI3MXpyMm1QZ0RHWXFySWQ4QzRfWlpPOWxodmhsS0lxeTBaRUtmd2VOQkowX3NEQUFBfjCOnOXpBTgNQJVO"
+    }
+}
